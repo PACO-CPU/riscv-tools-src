@@ -17,4 +17,6 @@ version_data={
   6: version_t({ "block-crc" },{ "block-size": 8 }),
   7: version_t({ "uart-shell" },{ "block-size": 32 }),
   8: version_t({ "uart-shell" },{ "block-size": 32 }),
+  9: version_t({ "uart-shell" },{ "block-size": 8 }),
+  10: version_t({ "uart-shell" },{ "block-size": 8 }),
 }
