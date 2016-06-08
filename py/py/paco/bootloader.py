@@ -19,5 +19,6 @@ version_data={
   8: version_t({ "uart-shell" },{ "block-size": 32 }),
   9: version_t({ "uart-shell" },{ "block-size": 8 }),
   10: version_t({ "uart-shell", "exec-confirm" },{ "block-size": 8 }),
-  11: version_t({ "uart-shell", "exec-confirm" },{ "block-size": 256 })
+  11: version_t({ "uart-shell", "exec-confirm" },{ "block-size": 256 }),
+  12: version_t({ "uart-shell", "exec-confirm", "sync-byte" }, { "block-size": 256 }),
 }
