@@ -1,0 +1,24 @@
+[submodule "riscv-opcodes"]
+	path = riscv-opcodes
+	url = https://github.com/PACO-CPU/riscv-opcodes.git
+[submodule "riscv-lut-compiler"]
+	path = riscv-lut-compiler
+	url = https://github.com/PACO-CPU/riscv-lut-compiler.git
+[submodule "riscv-isa-sim"]
+	path = riscv-isa-sim
+	url = https://github.com/PACO-CPU/riscv-isa-sim.git
+[submodule "riscv-fesvr"]
+	path = riscv-fesvr
+	url = https://github.com/PACO-CPU/riscv-fesvr.git
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = https://github.com/PACO-CPU/riscv-gnu-toolchain.git
+[submodule "riscv-tests"]
+	path = riscv-tests
+	url = https://github.com/PACO-CPU/riscv-tests.git
+[submodule "riscv-llvm"]
+	path = riscv-llvm
+	url = https://github.com/PACO-CPU/riscv-llvm.git
+[submodule "riscv-pk"]
+	path = riscv-pk
+	url = https://github.com/PACO-CPU/riscv-pk.git
